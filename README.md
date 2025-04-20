@@ -1,4 +1,5 @@
 # Animation-Heart
 ## Using HTML and CSS Project
-
-<img src="hearting.png" width="auto">
+<p align="center">
+  <img src="hearting.png" width="auto">
+</p>
